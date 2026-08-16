@@ -1,11 +1,9 @@
-## Hello!
-
-# Vanessa Negreiros
+# Hi, I'm Vanessa.
 
 I'm currently pursuing a Master of Data Analytics at the University of Niagara Falls Canada.
 
-My professional background is in operations and finance. Throughout my career, I've worked with budgeting, process improvement, performance management and strategic decision-making.
+My background is in business and finance. For more than nine years, I've worked with budgeting, financial control, performance analysis and process improvement, helping organizations understand their results and improve their performance.
 
-As organizations increasingly rely on data to make decisions, I chose to strengthen my analytical skills through graduate studies while building on the experience I've developed over the years.
+As data has become an increasingly important part of business, I decided to strengthen my analytical skills through graduate studies. My goal is to use data to better understand business problems and support better decisions.
 
-This portfolio brings together projects developed throughout my studies in Business & Data Analytics. Each project presents the business context, the analytical approach, the main findings and the recommendations derived from the analysis.
+This portfolio brings together projects developed throughout my studies in Business & Data Analytics. Each project explores a business problem, the analytical approach, the key findings and the recommendations based on the analysis.
